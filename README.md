@@ -1,3 +1,7 @@
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning **React** and **UX**
+
+
 
 [![Thaís' GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisdelima&theme=outrun&show_icons=true)](https://github.com/thaisdelima/github-readme-stats)
 
